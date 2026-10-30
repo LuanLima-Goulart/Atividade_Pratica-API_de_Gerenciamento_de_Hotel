@@ -1,0 +1,1 @@
+const listaQuartos = require("../models/quartosModel");
